@@ -4,8 +4,6 @@ Setting up automated crypto trading? You need to link your exchange account firs
 
 ---
 
-<figure><iframe title="Cryptorobotics Terminal API Integration to OKEX Crypto Exchange" src="https://www.youtube.com/embed/PddTXWGBOWc?feature=oembed"></iframe></figure>
-
 To get CryptoRobotics terminal talking to your OKX exchange account, you'll need an API key. Think of it as a secure handshake between the two platforms—your trading terminal can execute trades without you manually logging into the exchange every time.
 
 ## Getting Your API Key from OKX
